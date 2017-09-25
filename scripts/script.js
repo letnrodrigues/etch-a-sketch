@@ -2,7 +2,7 @@ $(document).ready(function() {
 
   // Initial variables
   var canvasSize = 500;
-  var gridNumber = 43;
+  var gridNumber = 16;
   var colour = "black";
 
 
